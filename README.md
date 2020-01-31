@@ -1,3 +1,9 @@
+# Updates on fork
+
+- The repo has updates for fetching newer version of facebook SDK's and using recommended config for Android and iOS after facebook updated policies (Sept 20, 2019)
+- Updated Target SDK for Android (SDK 28)
+- Updated corekit versions for facebook sdk in ios
+
 # Give [react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) a try!
 
 This project is no longer maintained. If you would like to maintain it, please reach out with a pull request.
@@ -276,8 +282,11 @@ open example/toy.xcodeproj
 
 ## Copyright and license
 
-Code and documentation copyright 2015 Noah. Code released under [the MIT license](https://github.com/magus/react-native-facebook-login/blob/master/LICENSE).
+Code and documentation copyright 2020 AtherEnergy. Code released under [the MIT license](https://github.com/magus/react-native-facebook-login/blob/master/LICENSE).
 
+## Forked From
+
+https://github.com/magus/react-native-facebook-login
 
 [react-native]: http://facebook.github.io/react-native/
 [fb-sdk-loginbutton]: https://developers.facebook.com/docs/facebook-login/ios/v2.3#login-button
