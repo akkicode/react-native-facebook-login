@@ -1,5 +1,5 @@
 {
-  "name": "react-native-facebook-login",
+  "name": "@atherenergy/react-native-facebook-login",
   "version": "1.6.2",
   "description": "React Native wrapper for native iOS Facebook SDK login button and manager",
   "main": "index",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/magus/react-native-facebook-login"
+    "url": "git+https://github.com/magus/react-native-facebook-login.git"
   },
   "keywords": [
     "react",
@@ -21,12 +21,12 @@
     "login",
     "sdk"
   ],
-  "author": "Noah",
+  "author": "Yogesh Joshi <iyogeshjoshi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/magus/react-native-facebook-login/issues"
+    "url": "https://github.com/atherenergy/react-native-facebook-login/issues"
   },
-  "homepage": "https://github.com/magus/react-native-facebook-login",
+  "homepage": "https://github.com/atherenergy/react-native-facebook-login",
   "peerDependencies": {
     "react-native": ">=0.26.2",
     "react": ">=15.0.2 || ^16.0.0-0",
